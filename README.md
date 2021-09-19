@@ -3,11 +3,12 @@ Socks Dos Skull Using Requests Module In python3
 
 # install:
 pip3 install requests pysocks colorama
------
+
 git clone https://github.com/ZeroBlackShark/DosSkull.git
 
 # Use:
 cd DosSkull
+
 python3 DosSkull.py
 
 # Coded:
